@@ -8,8 +8,8 @@ var mainList = {
 	//arr: shopGoods
 }
 
-
 /*
+
 
 var name1 = prompt('Какой тип товаров будем продавать?');
 var name2 = prompt('Какой тип товаров будем продавать?');
